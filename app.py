@@ -21,7 +21,7 @@ df = load_data(DATA_PATH)
 st.set_page_config(page_title="HDB Resale Dashboard", layout="wide")
 
 st.title("Singapore HDB Resale Dashboard")
-st.caption("Building a usable` dashboard from real resale transactions.")
+st.caption("Building a usable dashboard from real resale transactions.")
 
 st.header("Dashboard Overview")
 st.subheader("What this app will show")
